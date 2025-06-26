@@ -1,4 +1,3 @@
-import React from 'react';
 
 const Terms = () => (
   <div className="p-6 font-inter text-lg">
